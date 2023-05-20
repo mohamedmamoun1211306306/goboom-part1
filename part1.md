@@ -3,7 +3,7 @@
 ## A. Member Contributions
 
 No | ID         | Name                      |     Task descriptions     | Contribution %
--- | ---------- | --------------------------| ------------------------  |
+-- | ---------- | --------------------------| ------------------------  |------------
 1  |1211306306  |Mohamed Mamoun Mohamed     |     Card Class (100%)     |  25%
 2  |1201303049  |Jahed, Fahad Bin           |    Player Class (100%)    |  25%
 3  |1221303182  |Al-hawbani husam abdo ahmed|     Game Class (100%)     |  25%
